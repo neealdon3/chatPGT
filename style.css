@@ -9,7 +9,7 @@ body {
   
     #chatcontainer,
     #container {
-      height: -webkit-fill-available !important;
+      height: -webkit-fill-available !important; 
     }
   
   }
